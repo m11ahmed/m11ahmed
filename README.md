@@ -11,6 +11,14 @@ AI Engineer | Generative AI | NLP | LLMs & AI Agents
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
+<div align="center">
+
+<h3><code>m11ahmed@github ~ $ ./contributions.sh</code></h3>
+<img src="./contrib-heatmap.svg" width="860" />
+
+</div>
+
+
 Software Engineering graduate passionate about building intelligent systems and AI-powered applications. I enjoy turning ideas into practical solutions and experimenting with modern AI development workflows.
 
 - 🤖 Building with LLMs, NLP, Generative AI & AI Agents
