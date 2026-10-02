@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+# portrait only (local, not needed by the daily workflow):
+pillow
+numpy
+opencv-python
+rembg
