@@ -10,6 +10,12 @@ AI Engineer | Generative AI | NLP | LLMs & AI Agents
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-Image%20Analysis-blue?style=flat)
+![Neural Networks](https://img.shields.io/badge/Neural%20Networks-Deep%20Learning-purple?style=flat)
+![CNN](https://img.shields.io/badge/CNN-Convolutional%20Neural%20Networks-orange?style=flat)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-Object%20Detection-00FFFF?style=flat)
 
 <div align="center">
    <h3><code>m11ahmed@github ~ $ whoami</code></h3>
@@ -33,7 +39,7 @@ Software Engineering graduate passionate about building intelligent systems and 
 
 🛠️ Tech Stack
 
-`Python` `NLP` `Generative AI` `LLMs` `Computer Vision` `Neural Networks` `AI Agents` `LangChain` `MCP` `Ollama` `Claude Code` `FastAPI` `Flask` `React` `MongoDB`
+`Python` `NLP` `Generative AI` `LLMs` `Computer Vision` `Neural Networks` `AI Agents` `LangChain` `MCP` `Ollama` `Claude Code` `FastAPI` `Flask` `React` `MongoDB` `OpenCV` `PyTorch`
 
 📫 Connect with me
 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-ahmed-51ab9624b)  
