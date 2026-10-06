@@ -33,7 +33,7 @@ Software Engineering graduate passionate about building intelligent systems and 
 
 🛠️ Tech Stack
 
-`Python` `NLP` `Generative AI` `LLMs` `AI Agents` `LangChain` `MCP` `Ollama` `Claude Code` `FastAPI` `Flask` `React` `MongoDB`
+`Python` `NLP` `Generative AI` `LLMs` `Computer Vision` `Neural Networks` `AI Agents` `LangChain` `MCP` `Ollama` `Claude Code` `FastAPI` `Flask` `React` `MongoDB`
 
 📫 Connect with me
 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-ahmed-51ab9624b)  
