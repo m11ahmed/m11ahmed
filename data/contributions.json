@@ -1,42 +1,7 @@
 {
  "user": "m11ahmed",
- "total": 24,
+ "total": 38,
  "days": [
-  {
-   "date": "2025-09-28",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-09-29",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-09-30",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-10-01",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-10-02",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-10-03",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-10-04",
-   "level": 0,
-   "count": 0
-  },
   {
    "date": "2025-10-05",
    "level": 0,
@@ -1569,7 +1534,7 @@
   },
   {
    "date": "2026-08-07",
-   "level": 2,
+   "level": 4,
    "count": 5
   },
   {
@@ -1584,7 +1549,7 @@
   },
   {
    "date": "2026-08-10",
-   "level": 2,
+   "level": 3,
    "count": 4
   },
   {
@@ -1844,20 +1809,40 @@
   },
   {
    "date": "2026-10-01",
-   "level": 2,
+   "level": 3,
    "count": 4
   },
   {
    "date": "2026-10-02",
    "level": 4,
-   "count": 10
+   "count": 15
+  },
+  {
+   "date": "2026-10-03",
+   "level": 4,
+   "count": 6
+  },
+  {
+   "date": "2026-10-04",
+   "level": 1,
+   "count": 1
+  },
+  {
+   "date": "2026-10-05",
+   "level": 2,
+   "count": 2
+  },
+  {
+   "date": "2026-10-06",
+   "level": 0,
+   "count": 0
   }
  ],
- "current_streak": 2,
- "longest_streak": 2,
+ "current_streak": 5,
+ "longest_streak": 5,
  "best_day": {
   "date": "2026-10-02",
   "level": 4,
-  "count": 10
+  "count": 15
  }
 }
