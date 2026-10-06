@@ -12,6 +12,10 @@ AI Engineer | Generative AI | NLP | LLMs & AI Agents
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 <div align="center">
+   <h3><code>m11ahmed@github ~ $ whoami</code></h3>
+   <img src="./ascii.svg" width="400" />
+   </div>
+<div align="center">
 
 <h3><code>m11ahmed@github ~ $ ./contributions.sh</code></h3>
 <img src="./contrib-heatmap.svg" width="860" />
