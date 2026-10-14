@@ -17,11 +17,11 @@ AI Engineer | Generative AI | NLP | LLMs & AI Agents
 ![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![YOLO](https://img.shields.io/badge/YOLO-Object%20Detection-00FFFF?style=flat)
 
-</div>
+<div align="center">
    <h3><code>m11ahmed@github ~ $ ./contributions.sh</code></h3>
    <img src="./contrib-heatmap.svg" width="860" />
-</div>
-
+   </div>
+<div align="center">
 <div align="center">
    <h3><code>m11ahmed@github ~ $ whoami</code></h3>
    <img src="./ascii.svg" width="400" />
