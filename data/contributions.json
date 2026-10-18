@@ -1,42 +1,7 @@
 {
  "user": "m11ahmed",
- "total": 118,
+ "total": 119,
  "days": [
-  {
-   "date": "2025-10-12",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-10-13",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-10-14",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-10-15",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-10-16",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-10-17",
-   "level": 0,
-   "count": 0
-  },
-  {
-   "date": "2025-10-18",
-   "level": 0,
-   "count": 0
-  },
   {
    "date": "2025-10-19",
    "level": 0,
@@ -1854,12 +1819,17 @@
   },
   {
    "date": "2026-10-17",
+   "level": 1,
+   "count": 1
+  },
+  {
+   "date": "2026-10-18",
    "level": 0,
    "count": 0
   }
  ],
- "current_streak": 16,
- "longest_streak": 16,
+ "current_streak": 17,
+ "longest_streak": 17,
  "best_day": {
   "date": "2026-07-14",
   "level": 4,
