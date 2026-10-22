@@ -1,6 +1,6 @@
 {
  "user": "m11ahmed",
- "total": 122,
+ "total": 123,
  "days": [
   {
    "date": "2025-10-19",
@@ -1839,12 +1839,17 @@
   },
   {
    "date": "2026-10-21",
+   "level": 1,
+   "count": 1
+  },
+  {
+   "date": "2026-10-22",
    "level": 0,
    "count": 0
   }
  ],
- "current_streak": 20,
- "longest_streak": 20,
+ "current_streak": 21,
+ "longest_streak": 21,
  "best_day": {
   "date": "2026-07-14",
   "level": 4,
